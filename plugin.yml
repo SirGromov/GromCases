@@ -1,0 +1,13 @@
+name: GromCases
+main: me.grom.casesMain.GromCasesMain
+version: 0.2r1
+author: SirGromov
+description: Case and Case Operations!
+website: https://vk.com/sirgromov
+commands:
+  case:
+    usage: "/case <open/info> <case>"
+    description: Case interaction
+  caseadmin:
+    usage: "/caseadmin <add/remove/set> <case> <player> <amount>"
+    description: Case interaction
